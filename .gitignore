@@ -1,0 +1,10 @@
+# 敏感文件：绝不上传
+.streamlit/secrets.toml
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# 向量库/本地数据
+chroma_db/
